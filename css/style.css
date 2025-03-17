@@ -182,7 +182,7 @@ header{
 
 .banner{
     min-height: 926px;
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%), url(/img/hero-bg.png);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%), url(../img/hero-bg.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
